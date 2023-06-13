@@ -1,0 +1,19 @@
+#span1 {
+    margin-left: 1cm;
+    border-left-width: 10px;
+    border-color: silver;
+    border-left-style: solid;
+    border-right-width: 10px;
+    font-size: x-large;
+    background-color: aquamarine;
+}
+
+#span2 {
+    margin-left: 1cm;
+    border-left-width: 10px;
+    border-color: gold;
+    border-left-style: solid;
+    border-right-width: 10px;
+    font-size: x-large;
+    background-color: aquamarine;
+}
